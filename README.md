@@ -1,5 +1,5 @@
 # Mini-Projects-while-learning-Web-Dev
-These are Mini Project while Learing Web-Development
+These are Mini Projects I have done while Learing Web-Development
 
 1) BBC News Frame with HTML and CSS
 
