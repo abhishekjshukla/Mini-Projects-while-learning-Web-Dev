@@ -1,0 +1,36 @@
+body{
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 1%;
+	padding-bottom: 3%;
+	border: 20px #bdc3c7 solid;
+}
+.date{
+	color: #3498db;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:15px;
+	margin: 3%;
+	letter-spacing: .1rem;
+}
+.heading{
+	color: #2c3e50;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-top: 3.5%;
+	margin-left: 3%;
+	font-weight: 800;
+	font-size: 30px;
+}
+.para1{
+	color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin: 3%;
+	padding-left: 1%;
+	border-left: 5px #bdc3c7 solid;
+
+}
+.otherp{
+	color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-top: 1%;
+	margin-left: 3%;
+}
