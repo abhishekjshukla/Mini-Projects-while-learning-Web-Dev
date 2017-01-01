@@ -1,0 +1,97 @@
+#topbar{
+   /* background-color: red;*/
+    height: 40px;
+    width: 10000px;
+    margin:0px auto;
+}
+#logo{  
+    float: left;
+    width: 150px;
+}
+#logop{
+    margin-top: 8px;
+    margin-left: 60px;
+
+}
+.topsection{
+    float:left;
+    height: 100%;  
+    border-left: 1px gray solid 
+}
+#sign{
+    width: 200px;   
+}
+#stext{
+    width: 200px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: 12px;
+}
+#news{
+
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 10px;
+}
+#more{
+    width: 120px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    margin: 0px;
+    height: 20px;
+}
+#search{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 13px;
+    background-color: rgb(217,217,217);
+    position: relative;
+    left:5px;
+    top:7px;
+    width:200px;
+    height: 20px;
+    border: 1px white solid;
+}
+#sec2{
+    background-color: rgb(191,0,31);
+    height: 60px;
+    width: 10000px;
+}
+#ltext{
+
+    font-size: 40px;
+    color: white;
+    font-family: Arial;
+    text-decoration: none;
+    position: relative;
+    left:56px;
+    top:8px;
+}
+#sec3{
+    background-color:rgb(172,19,29);
+    height: 40px;
+    width: 10000px;
+}
+#bar3{
+    position: relative;
+    left:40px;
+    float: left;
+}
+.text3{
+
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+    border-right: rgb(192,67,71) 1px solid;
+    padding: 0px 15px;
+    text-align: center;
+    position: relative;
+}
+body{
+    margin: 0px 0px;
+}
