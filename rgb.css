@@ -1,0 +1,109 @@
+#topbar{
+	background-color: rgb(59,118,173);
+	height: 150px;
+	width: 100%;
+}
+#second{
+	background-color: white;
+	height: 30px;
+	width: 100%;
+}
+#result{
+	font-family: "Arial";
+	color: rgb(59,118,173);
+	position: absolute;
+	top:140px;
+	left: 43%;
+	font-weight: bold;
+
+}
+#newg{
+	font-family: "Arial";
+	color: rgb(59,118,173);
+	position: absolute;
+	top:140px;
+	left: 30%;
+	font-weight: bold;
+}
+body{
+	background-color: gray;
+	margin: 0px auto;
+}
+.gr{
+	color: white;
+	text-align: center;
+	font-family: "Arial";
+	position:absolute;
+	margin: 8px auto;
+	top:0px;
+	left:42%;
+}
+#rgbg{
+	color: white;
+	text-align: center;
+	font-family: "Arial";
+	position:absolute;
+	margin-top:6px;
+	font-size: 50px;
+	top:30px;
+	left:31%;
+}
+#the{
+	font-size: 25px;
+}
+#rgbg{
+	font-size: 50px;
+}
+.clrf{
+	clear:inherit;
+}
+.sq{
+	margin-top:30px;
+	height: 150px;
+	width: 150px;
+	border-radius: 20%;
+}
+#sq1{
+	position: absolute;
+	left:20%;
+}
+#sq2{
+	position: absolute;
+	left:40%;
+}
+#sq3{
+	position: absolute;
+	left:60%;
+}
+#sq4{
+	position: absolute;
+	bottom:50px;
+	left:20%;
+}
+#sq5{
+	position: absolute;
+	bottom:50px;
+	left:40%;
+}
+#sq6{
+	position: absolute;
+	bottom:50px;	
+	left:60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
