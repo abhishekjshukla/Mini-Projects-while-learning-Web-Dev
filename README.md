@@ -4,3 +4,5 @@ These are Mini Projects I have done while Learing Web-Development
 1) BBC News Frame with HTML and CSS
 
 2) A blog Templete.
+
+3) A Simple RGB Colour Guessing Game.
